@@ -86,7 +86,7 @@ $$
 
 # Captioned Images and Videos
 
-![inline](room.jpg)
+![inline](images/rose-blue.jpeg)
 
 Easily create captions using [inline] images/videos with text underneath.
 
