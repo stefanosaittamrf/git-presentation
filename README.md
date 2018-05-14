@@ -1,6 +1,7 @@
 # Git Presentation
 
-## Description
+## Description
+
 This is a presentation about Git and it's beautiful features.
 
 ## Technology Used
