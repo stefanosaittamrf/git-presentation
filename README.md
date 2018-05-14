@@ -14,10 +14,42 @@ We use [Deckset](https://www.decksetapp.com/) for create and display this presen
 
 ## Index
 
-	TODO
+---
+- Introduction
+	- Joke
+	- Explanation parts of the talk
+	- Why is important? with jokes ( a world withou git )
+
+---
+HANDS ON
+
+- git checkout / add --patch
+- Merge without conflicts
+- Rebase interactive without conflicts
+	- squash...
+	- gp force
+- 3 Type conflics with Merge
+
+---
+Q&A
+---
+Git Merge 2018
+	- Security
+	- Typical Open Source Workflow
+	- Git for none-techs (Sketch)
+
+- Ideas for git use in your day to day?
+
+---
+FINAL Q&A
+---
 
 ## Download Slides
 
 [PDF]()
 [PNG]()
 [JPEG]()
+=======
+[Stefano Saitta](https://github.com/stefanosaittamrf)
+
+[OscarDOM](https://github.com/dominguezcelada)
