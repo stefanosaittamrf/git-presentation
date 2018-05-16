@@ -14,7 +14,6 @@ We use [Deckset](https://www.decksetapp.com/) for create and display this presen
 
 ## Index
 
----
 1. Introduction
 	1. Gifs and memes
 	1. Explanation of the talk
@@ -26,16 +25,18 @@ We use [Deckset](https://www.decksetapp.com/) for create and display this presen
 	1. Rebase vs Merge
 	1. Focus on Rebase interactive
 	1. Types of conflics
+---
+INTERMEDIATE Q&A
+---
 
-**INTERMEDIATE Q&A**
-
-1.Beyond GIt
-	1. Security in git
+1. Beyond GIt
+	1.Security in git
 	1. Typical Open Source Workflow
 	1. Git for Designers
 
-
-**FINAL Q&A**
+---
+FINAL Q&A
+---
 
 ## Download Slides
 
