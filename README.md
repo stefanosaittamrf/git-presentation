@@ -6,7 +6,9 @@ This is a presentation about Git and it's beautiful features.
 
 ## Authors
 
-[Stefano Saitta](https://github.com/stefanosaittamrf) && @?
+=======
+
+[Stefano Saitta](https://github.com/stefanosaittamrf) && [Óscar Dominguez](https://github.com/dominguezcelada)
 
 ## Technology Used
 
@@ -15,23 +17,22 @@ We use [Deckset](https://www.decksetapp.com/) for create and display this presen
 ## Index
 
 ---
-- Introduction
-	- Joke
-	- Explanation parts of the talk
-	- Why is important? with jokes ( a world withou git )
+[x] Introduction
+	[x] Gifs and memes
+	[x] Explanation of the talk
+	[x] A bit of history of VCS
+	[x] Why is important?
 
 ---
-HANDS ON
 
-- git checkout / add --patch
-- Merge without conflicts
-- Rebase interactive without conflicts
-	- squash...
-	- gp force
-- 3 Type conflics with Merge
+[x] HANDS ON
+	[x] git checkout / add --patch
+	[x] Merge without conflicts
+	[x] Rebase interactive without conflicts
+	[x] 3 Type conflics with Merge
 
 ---
-Q&A
+INTERMEDIATE Q&A
 ---
 Git Merge 2018
 	- Security
@@ -49,7 +50,3 @@ FINAL Q&A
 [PDF]()
 [PNG]()
 [JPEG]()
-=======
-[Stefano Saitta](https://github.com/stefanosaittamrf)
-
-[OscarDOM](https://github.com/dominguezcelada)
